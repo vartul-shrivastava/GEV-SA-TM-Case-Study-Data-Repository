@@ -16,8 +16,3 @@ This project is licensed under the MIT License. For details, please refer to the
 ## Contributors
 - Shekhar Shukla [@shekharshukla](https://www.linkedin.com/in/shekhar-shukla-07161740/)
 - Vartul Shrivastava [@vartulshrivastava](https://www.linkedin.com/in/vartul-shrivastava/)
-
-## Acknowledgments
-Special thanks to all contributors and libraries used in this project.
-
-Icons provided by [Icons8](https://icons8.com).

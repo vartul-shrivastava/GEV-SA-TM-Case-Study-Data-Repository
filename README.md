@@ -1,5 +1,5 @@
-# Data Repository of Case Study
-## Govardhan Ecovillage: Leveraging Tourism Analytics for S3 Impact Alignment
+## Data Repository of Case Study
+# Govardhan Ecovillage: Leveraging Tourism Analytics for S3 Impact Alignment
 
 *by Shekhar Shukla and Vartul Shrivastava*
 
